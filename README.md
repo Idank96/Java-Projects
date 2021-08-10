@@ -1,2 +1,2 @@
 # Java-Projects
-This is a Project from the Java course in The Open University of Israel.
+This Project was created as a part of the Java course in The Open University of Israel.
